@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778619472544",
+    "project_id": "testepi-5858e",
+    "storage_bucket": "testepi-5858e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778619472544:android:2f635125b67a4fe2eb97c5",
+        "android_client_info": {
+          "package_name": "com.semcodar.tutorialffyt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJvRJ8MIBsGzwzAw_2CTk3UYqF7kOllec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
